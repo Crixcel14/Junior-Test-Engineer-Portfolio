@@ -1,5 +1,6 @@
 # Portfolio
- [# Skills](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/edit/main/README.md#skills)
+ - [# Skills](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/edit/main/README.md#skills)
+ - [# Tools used](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#tools-used)
 
 
 
