@@ -1,7 +1,10 @@
 # Portfolio
+ - [# About Me](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#tools-used)
  - [# Skills](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/edit/main/README.md#skills)
  - [# Tools used](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#tools-used)
-
+   - [-- For ticket management--](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#about-me:~:text=%2D%2DFor%20ticket%20management%2D%2D)
+   - [-- For automation--](
+ - 
 
 
 <h1>About Me</h1>
@@ -60,7 +63,7 @@ You can check my CV [here](https://docs.google.com/document/d/1jUFJ-jWrEygOZ9BTF
 - know how to assign myself for a ticket, conduct bug verification, and provide test evidence/s
 - know how to provide a comment, update or close a ticket
 
-## **For automation**
+**--For automation--**
 
 **Cypress:**
 - know how to use and run Cypress
