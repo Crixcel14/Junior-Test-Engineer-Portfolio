@@ -3,8 +3,10 @@
  - [# Skills](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/edit/main/README.md#skills)
  - [# Tools used](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#tools-used)
    - [-- For ticket management--](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#about-me:~:text=%2D%2DFor%20ticket%20management%2D%2D)
-   - [-- For automation--](
- - 
+   - [-- For automation--](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#about-me:~:text=close%20a%20ticket-,%2D%2DFor%20automation%2D%2D,-Cypress%3A)
+ - [# Course taken](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#about-me:~:text=close%20a%20ticket-,%2D%2DFor%20automation%2D%2D,-Cypress%3A)
+ - [# Completed projects](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#about-me:~:text=close%20a%20ticket-,%2D%2DFor%20automation%2D%2D,-Cypress%3A)
+ - [# Giving where credt's due](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#about-me:~:text=close%20a%20ticket-,%2D%2DFor%20automation%2D%2D,-Cypress%3A)
 
 
 <h1>About Me</h1>
@@ -42,8 +44,8 @@ You can check my CV [here](https://docs.google.com/document/d/1jUFJ-jWrEygOZ9BTF
 
 
 
-# Tools used
-**--For ticket management--**
+# Tools used 
+## For ticket management
 
 **Gitlab:**
 - know how to assign me a ticket, conduct bug verification, and provide test evidence/s
@@ -63,7 +65,7 @@ You can check my CV [here](https://docs.google.com/document/d/1jUFJ-jWrEygOZ9BTF
 - know how to assign myself for a ticket, conduct bug verification, and provide test evidence/s
 - know how to provide a comment, update or close a ticket
 
-**--For automation--**
+## For automation
 
 **Cypress:**
 - know how to use and run Cypress
@@ -71,7 +73,7 @@ You can check my CV [here](https://docs.google.com/document/d/1jUFJ-jWrEygOZ9BTF
 - know how to create a new empty spec, write and organize test cases
 - able to run Cypress tests and analyze results
 - able to provide and document results
-
+  
 
 # Courses taken
 
@@ -79,11 +81,11 @@ You can check my CV [here](https://docs.google.com/document/d/1jUFJ-jWrEygOZ9BTF
 A foundation course for software testing provided by LambdaTest
 [Link to certificate](https://www.linkedin.com/learning/certificates/00ae036bade9cf905cb83f8837ca0817ec9d9da4947eebca7807692aef1647a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BcGhh9sK8QJqou%2BWRgyNAeA%3D%3D)
 
-**(Recommended) Postman API Fundamentals Student Expert - Postman**
+**Postman API Fundamentals Student Expert - Postman**
 A free certification course by Postman, the course will take you 8 to 9 hours but will provide a great foundation for understanding API and Postman basics
 [Link to badge](https://api.badgr.io/public/assertions/lLUpdem-RPOne6pRpbExpw) 
 
-Introduction to Cypress - Test Automation University - Applitools
+**Introduction to Cypress - Test Automation University - Applitools**
 A Cypress course provided in chapter videos that will help you understand how in to use Cypress 
 [Link to certificate](https://testautomationu.applitools.com/certificate/?id=0654a176)
 
