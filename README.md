@@ -1,11 +1,11 @@
 # Portfolio
- - [# Skills](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/edit/main/README.md#skills)
+ - [# Skills](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#skills)
  - [# Tools used](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#tools-used)
    - For ticket management
    - For automation
- - [# Course taken](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#about-me:~:text=close%20a%20ticket-,%2D%2DFor%20automation%2D%2D,-Cypress%3A)
- - [# Completed projects](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#about-me:~:text=close%20a%20ticket-,%2D%2DFor%20automation%2D%2D,-Cypress%3A)
- - [# Giving where credt's due](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#about-me:~:text=close%20a%20ticket-,%2D%2DFor%20automation%2D%2D,-Cypress%3A)
+ - [# Course taken](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#courses-taken)
+ - [# Completed projects](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#completed-projects)
+ - [# Giving where credit's due](https://github.com/Crixcel14/Junior-Test-Engineer-Portfolio/tree/main#giving-where-credits-due)
 
 
 <h1>About Me</h1>
